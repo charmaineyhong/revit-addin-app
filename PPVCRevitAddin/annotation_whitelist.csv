@@ -1,0 +1,1467 @@
+File: PPVCRevitAddin\annotation_whitelist.csv
+````````
+ppvc_name,view_name,element_id,annotation_type
+PPVC 02_Typ 1,Elevation A,12319399,Dimension
+PPVC 02_Typ 1,Elevation A,12298203,Dimension
+PPVC 02_Typ 1,Elevation A,12319443,Dimension
+PPVC 02_Typ 1,Elevation A,12320421,Dimension
+PPVC 02_Typ 1,Elevation A,12318811,Dimension
+PPVC 02_Typ 1,Elevation A,12318853,Dimension
+PPVC 02_Typ 1,Elevation A,12318722,Dimension
+PPVC 02_Typ 1,Elevation A,12318700,Dimension
+PPVC 02_Typ 1,Elevation A,12318865,Dimension
+PPVC 02_Typ 1,Elevation A,12319508,Dimension
+PPVC 02_Typ 1,Elevation A,12319473,Dimension
+PPVC 02_Typ 1,Elevation A,12319450,Dimension
+PPVC 02_Typ 1,Elevation A,12309244,TextNote
+PPVC 02_Typ 1,Elevation A,12319644,TextNote
+PPVC 02_Typ 1,Elevation A,12319633,TextNote
+PPVC 02_Typ 1,Elevation A,12319750,TextNote
+PPVC 02_Typ 1,Elevation B,12354284,Dimension
+PPVC 02_Typ 1,Elevation B,12323544,Dimension
+PPVC 02_Typ 1,Elevation B,12335570,Dimension
+PPVC 02_Typ 1,Elevation B,12335542,Dimension
+PPVC 02_Typ 1,Elevation B,12335506,Dimension
+PPVC 02_Typ 1,Elevation B,12323392,Dimension
+PPVC 02_Typ 1,Elevation B,12324005,Dimension
+PPVC 02_Typ 1,Elevation B,12310077,TextNote
+PPVC 02_Typ 1,Elevation B,12323540,TextNote
+PPVC 02_Typ 1,Elevation B,12324022,TextNote
+PPVC 02_Typ 1,Elevation C,12320895,Dimension
+PPVC 02_Typ 1,Elevation C,12320875,Dimension
+PPVC 02_Typ 1,Elevation C,12321361,Dimension
+PPVC 02_Typ 1,Elevation C,12325199,Dimension
+PPVC 02_Typ 1,Elevation C,12321478,Dimension
+PPVC 02_Typ 1,Elevation C,12320659,Dimension
+PPVC 02_Typ 1,Elevation C,12320615,Dimension
+PPVC 02_Typ 1,Elevation C,12320603,Dimension
+PPVC 02_Typ 1,Elevation C,12322161,Dimension
+PPVC 02_Typ 1,Elevation C,12338149,Dimension
+PPVC 02_Typ 1,Elevation C,12338292,Dimension
+PPVC 02_Typ 1,Elevation C,12391513,Dimension
+PPVC 02_Typ 1,Elevation C,12322663,Dimension
+PPVC 02_Typ 1,Elevation C,12309743,TextNote
+PPVC 02_Typ 1,Elevation C,12309742,TextNote
+PPVC 02_Typ 1,Elevation C,12322919,TextNote
+PPVC 02_Typ 1,Elevation C,12323004,TextNote
+PPVC 02_Typ 1,Elevation C,12344135,TextNote
+PPVC 02_Typ 1,Elevation C,12323028,TextNote
+PPVC 02_Typ 1,Elevation D,12352601,Dimension
+PPVC 02_Typ 1,Elevation D,12325560,Dimension
+PPVC 02_Typ 1,Elevation D,12395098,Dimension
+PPVC 02_Typ 1,Elevation D,12325385,Dimension
+PPVC 02_Typ 1,Elevation D,12325819,Dimension
+PPVC 02_Typ 1,Elevation D,12325074,Dimension
+PPVC 02_Typ 1,Elevation D,12325061,Dimension
+PPVC 02_Typ 1,Elevation D,12325049,Dimension
+PPVC 02_Typ 1,Elevation D,12386156,Dimension
+PPVC 02_Typ 1,Elevation D,12407099,Dimension
+PPVC 02_Typ 1,Elevation D,12386086,Dimension
+PPVC 02_Typ 1,Elevation D,12385931,Dimension
+PPVC 02_Typ 1,Elevation D,12400812,Dimension
+PPVC 02_Typ 1,Elevation D,12325699,Dimension
+PPVC 02_Typ 1,Elevation D,12401162,Dimension
+PPVC 02_Typ 1,Elevation D,12397839,TextNote
+PPVC 02_Typ 1,Elevation D,12325836,TextNote
+PPVC 02_Typ 1,Elevation D,12325844,TextNote
+PPVC 02_Typ 1,Elevation D,12386170,TextNote
+PPVC 02_Typ 1,Elevation D,12325873,TextNote
+PPVC 02_Typ 1,Elevation D,12325883,TextNote
+PPVC 01, 20_Typ,Elevation A,12364283,Dimension
+PPVC 01, 20_Typ,Elevation A,12330652,Dimension
+PPVC 01, 20_Typ,Elevation A,12330676,Dimension
+PPVC 01, 20_Typ,Elevation A,12402417,Dimension
+PPVC 01, 20_Typ,Elevation A,12417265,Dimension
+PPVC 01, 20_Typ,Elevation A,12329941,Dimension
+PPVC 01, 20_Typ,Elevation A,12330098,Dimension
+PPVC 01, 20_Typ,Elevation A,12407259,Dimension
+PPVC 01, 20_Typ,Elevation A,12330407,Dimension
+PPVC 01, 20_Typ,Elevation A,12364290,Dimension
+PPVC 01, 20_Typ,Elevation A,12329972,Dimension
+PPVC 01, 20_Typ,Elevation A,12329789,Dimension
+PPVC 01, 20_Typ,Elevation A,12329680,Dimension
+PPVC 01, 20_Typ,Elevation A,12329667,Dimension
+PPVC 01, 20_Typ,Elevation A,12410998,TextNote
+PPVC 01, 20_Typ,Elevation A,12354412,TextNote
+PPVC 01, 20_Typ,Elevation A,12330615,TextNote
+PPVC 01, 20_Typ,Elevation A,12330607,TextNote
+PPVC 01, 20_Typ,Elevation A,12312381,TextNote
+PPVC 01, 20_Typ,Elevation B,12332089,Dimension
+PPVC 01, 20_Typ,Elevation B,12332103,Dimension
+PPVC 01, 20_Typ,Elevation B,12350769,Dimension
+PPVC 01, 20_Typ,Elevation B,12331869,Dimension
+PPVC 01, 20_Typ,Elevation B,12331798,Dimension
+PPVC 01, 20_Typ,Elevation B,12331731,Dimension
+PPVC 01, 20_Typ,Elevation B,12296593,Dimension
+PPVC 01, 20_Typ,Elevation B,12331885,Dimension
+PPVC 01, 20_Typ,Elevation B,12354479,TextNote
+PPVC 01, 20_Typ,Elevation B,12331973,TextNote
+PPVC 01, 20_Typ,Elevation B,12314803,TextNote
+PPVC 01, 20_Typ,Elevation C,12331702,Dimension
+PPVC 01, 20_Typ,Elevation C,12365496,Dimension
+PPVC 01, 20_Typ,Elevation C,12406123,Dimension
+PPVC 01, 20_Typ,Elevation C,12331435,Dimension
+PPVC 01, 20_Typ,Elevation C,12331451,Dimension
+PPVC 01, 20_Typ,Elevation C,12365670,Dimension
+PPVC 01, 20_Typ,Elevation C,12331504,Dimension
+PPVC 01, 20_Typ,Elevation C,12403466,Dimension
+PPVC 01, 20_Typ,Elevation C,12417680,Dimension
+PPVC 01, 20_Typ,Elevation C,12417801,Dimension
+PPVC 01, 20_Typ,Elevation C,12330978,Dimension
+PPVC 01, 20_Typ,Elevation C,12330998,Dimension
+PPVC 01, 20_Typ,Elevation C,12400348,Dimension
+PPVC 01, 20_Typ,Elevation C,12395405,Dimension
+PPVC 01, 20_Typ,Elevation C,12331589,Dimension
+PPVC 01, 20_Typ,Elevation C,12331554,Dimension
+PPVC 01, 20_Typ,Elevation C,12400360,Dimension
+PPVC 01, 20_Typ,Elevation C,12330909,Dimension
+PPVC 01, 20_Typ,Elevation C,12365422,Dimension
+PPVC 01, 20_Typ,Elevation C,12330874,Dimension
+PPVC 01, 20_Typ,Elevation C,12314802,TextNote
+PPVC 01, 20_Typ,Elevation C,12314786,TextNote
+PPVC 01, 20_Typ,Elevation C,12367157,TextNote
+PPVC 01, 20_Typ,Elevation C,12395517,TextNote
+PPVC 01, 20_Typ,Elevation C,12331651,TextNote
+PPVC 01, 20_Typ,Elevation C,12410992,TextNote
+PPVC 01, 20_Typ,Elevation C,12331531,TextNote
+PPVC 01, 20_Typ,Elevation C,12331518,TextNote
+PPVC 01, 20_Typ,Elevation D,12352816,Dimension
+PPVC 01, 20_Typ,Elevation D,12352835,Dimension
+PPVC 01, 20_Typ,Elevation D,12352847,Dimension
+PPVC 01, 20_Typ,Elevation D,12332931,Dimension
+PPVC 01, 20_Typ,Elevation D,12333092,Dimension
+PPVC 01, 20_Typ,Elevation D,12332900,Dimension
+PPVC 01, 20_Typ,Elevation D,12332877,Dimension
+PPVC 01, 20_Typ,Elevation D,12414723,Dimension
+PPVC 01, 20_Typ,Elevation D,12417984,Dimension
+PPVC 01, 20_Typ,Elevation D,12418031,Dimension
+PPVC 01, 20_Typ,Elevation D,12333305,Dimension
+PPVC 01, 20_Typ,Elevation D,12333062,Dimension
+PPVC 01, 20_Typ,Elevation D,12333001,Dimension
+PPVC 01, 20_Typ,Elevation D,12333032,Dimension
+PPVC 01, 20_Typ,Elevation D,12312274,TextNote
+PPVC 01, 20_Typ,Elevation D,12312254,TextNote
+PPVC 01, 20_Typ,Elevation D,12312380,TextNote
+PPVC 01, 20_Typ,Elevation D,12352328,TextNote
+PPVC 01, 20_Typ,Elevation D,12352319,TextNote
+PPVC 01, 20_Typ,Elevation D,12333351,TextNote
+PPVC 03_Typ 1,Elevation A,12317742,Dimension
+PPVC 03_Typ 1,Elevation A,12317726,Dimension
+PPVC 03_Typ 1,Elevation A,12317667,Dimension
+PPVC 03_Typ 1,Elevation A,12334411,Dimension
+PPVC 03_Typ 1,Elevation A,12317706,Dimension
+PPVC 03_Typ 1,Elevation A,12317655,Dimension
+PPVC 03_Typ 1,Elevation A,12317630,Dimension
+PPVC 03_Typ 1,Elevation A,12317618,Dimension
+PPVC 03_Typ 1,Elevation A,12317859,Dimension
+PPVC 03_Typ 1,Elevation A,12320430,TextNote
+PPVC 03_Typ 1,Elevation A,12320453,TextNote
+PPVC 03_Typ 1,Elevation A,12320380,TextNote
+PPVC 03_Typ 1,Elevation B,12318419,Dimension
+PPVC 03_Typ 1,Elevation B,12318472,Dimension
+PPVC 03_Typ 1,Elevation B,12318495,Dimension
+PPVC 03_Typ 1,Elevation B,12318538,Dimension
+PPVC 03_Typ 1,Elevation B,12318630,Dimension
+PPVC 03_Typ 1,Elevation B,12318646,Dimension
+PPVC 03_Typ 1,Elevation B,12319758,Dimension
+PPVC 03_Typ 1,Elevation B,12321685,TextNote
+PPVC 03_Typ 1,Elevation B,12336898,TextNote
+PPVC 03_Typ 1,Elevation B,12321678,TextNote
+PPVC 03_Typ 1,Elevation C,12317917,Dimension
+PPVC 03_Typ 1,Elevation C,12317929,Dimension
+PPVC 03_Typ 1,Elevation C,12317963,Dimension
+PPVC 03_Typ 1,Elevation C,12317979,Dimension
+PPVC 03_Typ 1,Elevation C,12318129,Dimension
+PPVC 03_Typ 1,Elevation C,12318145,Dimension
+PPVC 03_Typ 1,Elevation C,12318237,Dimension
+PPVC 03_Typ 1,Elevation C,12318275,Dimension
+PPVC 03_Typ 1,Elevation C,12318720,Dimension
+PPVC 03_Typ 1,Elevation C,12335876,Dimension
+PPVC 03_Typ 1,Elevation C,12335888,Dimension
+PPVC 03_Typ 1,Elevation C,12336206,Dimension
+PPVC 03_Typ 1,Elevation C,12336218,Dimension
+PPVC 03_Typ 1,Elevation C,12374437,Dimension
+PPVC 03_Typ 1,Elevation C,12380044,Dimension
+PPVC 03_Typ 1,Elevation C,12380389,Dimension
+PPVC 03_Typ 1,Elevation C,12381837,Dimension
+PPVC 03_Typ 1,Elevation C,12384408,Dimension
+PPVC 03_Typ 1,Elevation C,12320464,TextNote
+PPVC 03_Typ 1,Elevation C,12320476,TextNote
+PPVC 03_Typ 1,Elevation C,12336232,TextNote
+PPVC 03_Typ 1,Elevation C,12321367,TextNote
+PPVC 03_Typ 1,Elevation C,12321389,TextNote
+PPVC 03_Typ 1,Elevation C,12321406,TextNote
+PPVC 03_Typ 1,Elevation D,12319983,Dimension
+PPVC 03_Typ 1,Elevation D,12319996,Dimension
+PPVC 03_Typ 1,Elevation D,12320030,Dimension
+PPVC 03_Typ 1,Elevation D,12320919,Dimension
+PPVC 03_Typ 1,Elevation D,12321018,Dimension
+PPVC 03_Typ 1,Elevation D,12321122,Dimension
+PPVC 03_Typ 1,Elevation D,12321203,Dimension
+PPVC 03_Typ 1,Elevation D,12321608,Dimension
+PPVC 03_Typ 1,Elevation D,12322202,Dimension
+PPVC 03_Typ 1,Elevation D,12322298,Dimension
+PPVC 03_Typ 1,Elevation D,12338500,Dimension
+PPVC 03_Typ 1,Elevation D,12375213,Dimension
+PPVC 03_Typ 1,Elevation D,12376025,Dimension
+PPVC 03_Typ 1,Elevation D,12384157,Dimension
+PPVC 03_Typ 1,Elevation D,12384215,Dimension
+PPVC 03_Typ 1,Elevation D,12320464,TextNote
+PPVC 03_Typ 1,Elevation D,12320476,TextNote
+PPVC 03_Typ 1,Elevation D,12336232,TextNote
+PPVC 03_Typ 1,Elevation D,12321367,TextNote
+PPVC 03_Typ 1,Elevation D,12321389,TextNote
+PPVC 03_Typ 1,Elevation D,12321406,TextNote
+PPVC 03_Typ 1,Elevation D,12322181,TextNote
+PPVC 03_Typ 1,Elevation D,12322357,TextNote
+PPVC 03_Typ 1,Elevation D,12340175,TextNote
+PPVC 03_Typ 1,Elevation D,12375886,TextNote
+PPVC 03_Typ 1,Elevation D,12321590,TextNote
+PPVC 03_Typ 1,Elevation D,12321600,TextNote
+PPVC 03_Typ 1,Elevation D,12321607,TextNote
+PPVC 04_Typ 1,Elevation A,11905836,Dimension
+PPVC 04_Typ 1,Elevation A,11905848,Dimension
+PPVC 04_Typ 1,Elevation A,11906171,Dimension
+PPVC 04_Typ 1,Elevation A,11906243,Dimension
+PPVC 04_Typ 1,Elevation A,11906331,Dimension
+PPVC 04_Typ 1,Elevation A,11906455,Dimension
+PPVC 04_Typ 1,Elevation A,11908056,Dimension
+PPVC 04_Typ 1,Elevation A,11908068,Dimension
+PPVC 04_Typ 1,Elevation A,11908081,Dimension
+PPVC 04_Typ 1,Elevation A,11910665,Dimension
+PPVC 04_Typ 1,Elevation A,11914901,Dimension
+PPVC 04_Typ 1,Elevation A,12007339,Dimension
+PPVC 04_Typ 1,Elevation A,12013277,Dimension
+PPVC 04_Typ 1,Elevation A,12015799,Dimension
+PPVC 04_Typ 1,Elevation A,12015871,Dimension
+PPVC 04_Typ 1,Elevation A,11812690,TextNote
+PPVC 04_Typ 1,Elevation A,11818213,TextNote
+PPVC 04_Typ 1,Elevation A,11868099,TextNote
+PPVC 04_Typ 1,Elevation A,11892092,TextNote
+PPVC 04_Typ 1,Elevation A,11918538,TextNote
+PPVC 04_Typ 1,Elevation A,12003651,TextNote
+PPVC 04_Typ 1,Elevation A,12014438,TextNote
+PPVC 04_Typ 1,Elevation A,12015798,TextNote
+PPVC 04_Typ 1,Elevation B,11812690,Dimension
+PPVC 04_Typ 1,Elevation B,11815822,Dimension
+PPVC 04_Typ 1,Elevation B,11818213,Dimension
+PPVC 04_Typ 1,Elevation B,11868099,Dimension
+PPVC 04_Typ 1,Elevation B,11892092,Dimension
+PPVC 04_Typ 1,Elevation B,11898662,Dimension
+PPVC 04_Typ 1,Elevation B,11898675,Dimension
+PPVC 04_Typ 1,Elevation B,11899170,Dimension
+PPVC 04_Typ 1,Elevation B,11899208,Dimension
+PPVC 04_Typ 1,Elevation B,11899724,Dimension
+PPVC 04_Typ 1,Elevation B,11899737,Dimension
+PPVC 04_Typ 1,Elevation B,11918538,Dimension
+PPVC 04_Typ 1,Elevation B,12003651,Dimension
+PPVC 04_Typ 1,Elevation B,12014438,Dimension
+PPVC 04_Typ 1,Elevation B,12015798,Dimension
+PPVC 04_Typ 1,Elevation B,11811366,TextNote
+PPVC 04_Typ 1,Elevation B,11818207,TextNote
+PPVC 04_Typ 1,Elevation B,11955047,TextNote
+PPVC 04_Typ 1,Elevation B,12000697,TextNote
+PPVC 04_Typ 1,Elevation C,11811366,Dimension
+PPVC 04_Typ 1,Elevation C,11818207,Dimension
+PPVC 04_Typ 1,Elevation C,11893033,Dimension
+PPVC 04_Typ 1,Elevation C,11907212,Dimension
+PPVC 04_Typ 1,Elevation C,11907224,Dimension
+PPVC 04_Typ 1,Elevation C,11907430,Dimension
+PPVC 04_Typ 1,Elevation C,11907783,Dimension
+PPVC 04_Typ 1,Elevation C,11907803,Dimension
+PPVC 04_Typ 1,Elevation C,11907815,Dimension
+PPVC 04_Typ 1,Elevation C,11907853,Dimension
+PPVC 04_Typ 1,Elevation C,11907918,Dimension
+PPVC 04_Typ 1,Elevation C,11908020,Dimension
+PPVC 04_Typ 1,Elevation C,11908044,Dimension
+PPVC 04_Typ 1,Elevation C,11910675,Dimension
+PPVC 04_Typ 1,Elevation C,11955047,Dimension
+PPVC 04_Typ 1,Elevation C,11959709,Dimension
+PPVC 04_Typ 1,Elevation C,11960193,Dimension
+PPVC 04_Typ 1,Elevation C,11960603,Dimension
+PPVC 04_Typ 1,Elevation C,12000697,Dimension
+PPVC 04_Typ 1,Elevation C,12011623,Dimension
+PPVC 04_Typ 1,Elevation C,12014452,Dimension
+PPVC 04_Typ 1,Elevation C,11818200,TextNote
+PPVC 04_Typ 1,Elevation C,11831388,TextNote
+PPVC 04_Typ 1,Elevation C,11833753,TextNote
+PPVC 04_Typ 1,Elevation C,11833775,TextNote
+PPVC 04_Typ 1,Elevation C,11907530,TextNote
+PPVC 04_Typ 1,Elevation D,11899945,Dimension
+PPVC 04_Typ 1,Elevation D,11899957,Dimension
+PPVC 04_Typ 1,Elevation D,11904781,Dimension
+PPVC 04_Typ 1,Elevation D,11905014,Dimension
+PPVC 04_Typ 1,Elevation D,11905026,Dimension
+PPVC 04_Typ 1,Elevation D,11905110,Dimension
+PPVC 04_Typ 1,Elevation D,11905122,Dimension
+PPVC 04_Typ 1,Elevation D,11905284,Dimension
+PPVC 04_Typ 1,Elevation D,11905304,Dimension
+PPVC 04_Typ 1,Elevation D,11905516,Dimension
+PPVC 04_Typ 1,Elevation D,11905523,Dimension
+PPVC 04_Typ 1,Elevation D,11905553,Dimension
+PPVC 04_Typ 1,Elevation D,11907764,Dimension
+PPVC 04_Typ 1,Elevation D,11921796,Dimension
+PPVC 04_Typ 1,Elevation D,11942950,Dimension
+PPVC 04_Typ 1,Elevation D,11956163,Dimension
+PPVC 04_Typ 1,Elevation D,12000013,Dimension
+PPVC 04_Typ 1,Elevation D,11811374,TextNote
+PPVC 04_Typ 1,Elevation D,11811375,TextNote
+PPVC 04_Typ 1,Elevation D,11811376,TextNote
+PPVC 04_Typ 1,Elevation D,11811399,TextNote
+PPVC 04_Typ 1,Elevation D,11831402,TextNote
+PPVC 04_Typ 1,Elevation D,11886971,TextNote
+PPVC 04_Typ 1,Elevation D,11893333,TextNote
+PPVC 05, 16_Typ,Elevation A,11747986,Dimension
+PPVC 05, 16_Typ,Elevation A,11747998,Dimension
+PPVC 05, 16_Typ,Elevation A,11749787,Dimension
+PPVC 05, 16_Typ,Elevation A,11753847,Dimension
+PPVC 05, 16_Typ,Elevation A,11798274,Dimension
+PPVC 05, 16_Typ,Elevation A,11798344,Dimension
+PPVC 05, 16_Typ,Elevation A,11893032,Dimension
+PPVC 05, 16_Typ,Elevation A,11893108,Dimension
+PPVC 05, 16_Typ,Elevation A,11903022,Dimension
+PPVC 05, 16_Typ,Elevation A,11903070,Dimension
+PPVC 05, 16_Typ,Elevation A,11950497,Dimension
+PPVC 05, 16_Typ,Elevation A,12015550,Dimension
+PPVC 05, 16_Typ,Elevation A,12059656,Dimension
+PPVC 05, 16_Typ,Elevation A,12059800,Dimension
+PPVC 05, 16_Typ,Elevation A,12063231,Dimension
+PPVC 05, 16_Typ,Elevation A,12063569,Dimension
+PPVC 05, 16_Typ,Elevation A,12066771,Dimension
+PPVC 05, 16_Typ,Elevation A,11751166,TextNote
+PPVC 05, 16_Typ,Elevation A,11752307,TextNote
+PPVC 05, 16_Typ,Elevation A,11813000,TextNote
+PPVC 05, 16_Typ,Elevation A,12047877,TextNote
+PPVC 05, 16_Typ,Elevation A,12066452,TextNote
+PPVC 05, 16_Typ,Elevation B,11752898,Dimension
+PPVC 05, 16_Typ,Elevation B,11752905,Dimension
+PPVC 05, 16_Typ,Elevation B,11753002,Dimension
+PPVC 05, 16_Typ,Elevation B,11753744,Dimension
+PPVC 05, 16_Typ,Elevation B,11798625,Dimension
+PPVC 05, 16_Typ,Elevation B,11834799,Dimension
+PPVC 05, 16_Typ,Elevation B,11835178,Dimension
+PPVC 05, 16_Typ,Elevation B,11835613,Dimension
+PPVC 05, 16_Typ,Elevation B,11884345,Dimension
+PPVC 05, 16_Typ,Elevation B,11909888,Dimension
+PPVC 05, 16_Typ,Elevation B,11922775,Dimension
+PPVC 05, 16_Typ,Elevation B,11926663,Dimension
+PPVC 05, 16_Typ,Elevation B,11753928,TextNote
+PPVC 05, 16_Typ,Elevation B,11753944,TextNote
+PPVC 05, 16_Typ,Elevation B,11822753,TextNote
+PPVC 05, 16_Typ,Elevation B,11834790,TextNote
+PPVC 05, 16_Typ,Elevation B,11835202,TextNote
+PPVC 05, 16_Typ,Elevation C,11757521,Dimension
+PPVC 05, 16_Typ,Elevation C,11836993,Dimension
+PPVC 05, 16_Typ,Elevation C,11845578,Dimension
+PPVC 05, 16_Typ,Elevation C,11845610,Dimension
+PPVC 05, 16_Typ,Elevation C,11845634,Dimension
+PPVC 05, 16_Typ,Elevation C,11881407,Dimension
+PPVC 05, 16_Typ,Elevation C,11904787,Dimension
+PPVC 05, 16_Typ,Elevation C,11904806,Dimension
+PPVC 05, 16_Typ,Elevation C,11904838,Dimension
+PPVC 05, 16_Typ,Elevation C,11905410,Dimension
+PPVC 05, 16_Typ,Elevation C,11906350,Dimension
+PPVC 05, 16_Typ,Elevation C,11906573,Dimension
+PPVC 05, 16_Typ,Elevation C,11921282,Dimension
+PPVC 05, 16_Typ,Elevation C,11921457,Dimension
+PPVC 05, 16_Typ,Elevation C,11926527,Dimension
+PPVC 05, 16_Typ,Elevation C,11973780,Dimension
+PPVC 05, 16_Typ,Elevation C,11999910,Dimension
+PPVC 05, 16_Typ,Elevation C,11999933,Dimension
+PPVC 05, 16_Typ,Elevation C,12047680,Dimension
+PPVC 05, 16_Typ,Elevation C,12049873,Dimension
+PPVC 05, 16_Typ,Elevation C,12064050,Dimension
+PPVC 05, 16_Typ,Elevation C,11758579,TextNote
+PPVC 05, 16_Typ,Elevation C,11758656,TextNote
+PPVC 05, 16_Typ,Elevation C,11769014,TextNote
+PPVC 05, 16_Typ,Elevation C,11769030,TextNote
+PPVC 05, 16_Typ,Elevation C,11845596,TextNote
+PPVC 05, 16_Typ,Elevation C,11845627,TextNote
+PPVC 05, 16_Typ,Elevation C,11845731,TextNote
+PPVC 05, 16_Typ,Elevation C,11847009,TextNote
+PPVC 05, 16_Typ,Elevation C,11847031,TextNote
+PPVC 05, 16_Typ,Elevation D,11760769,Dimension
+PPVC 05, 16_Typ,Elevation D,11760776,Dimension
+PPVC 05, 16_Typ,Elevation D,11764455,Dimension
+PPVC 05, 16_Typ,Elevation D,11765579,Dimension
+PPVC 05, 16_Typ,Elevation D,11842822,Dimension
+PPVC 05, 16_Typ,Elevation D,11842915,Dimension
+PPVC 05, 16_Typ,Elevation D,11847082,Dimension
+PPVC 05, 16_Typ,Elevation D,11886189,Dimension
+PPVC 05, 16_Typ,Elevation D,11894696,Dimension
+PPVC 05, 16_Typ,Elevation D,11910541,Dimension
+PPVC 05, 16_Typ,Elevation D,11911305,Dimension
+PPVC 05, 16_Typ,Elevation D,11911312,Dimension
+PPVC 05, 16_Typ,Elevation D,11911396,Dimension
+PPVC 05, 16_Typ,Elevation D,11922864,Dimension
+PPVC 05, 16_Typ,Elevation D,11963422,Dimension
+PPVC 05, 16_Typ,Elevation D,11979766,Dimension
+PPVC 05, 16_Typ,Elevation D,11979789,Dimension
+PPVC 05, 16_Typ,Elevation D,12004987,Dimension
+PPVC 05, 16_Typ,Elevation D,12006724,Dimension
+PPVC 05, 16_Typ,Elevation D,12014685,Dimension
+PPVC 05, 16_Typ,Elevation D,12015334,Dimension
+PPVC 05, 16_Typ,Elevation D,12051235,Dimension
+PPVC 05, 16_Typ,Elevation D,12051617,Dimension
+PPVC 05, 16_Typ,Elevation D,11766041,TextNote
+PPVC 05, 16_Typ,Elevation D,11766047,TextNote
+PPVC 05, 16_Typ,Elevation D,11766106,TextNote
+PPVC 05, 16_Typ,Elevation D,11769050,TextNote
+PPVC 05, 16_Typ,Elevation D,11843227,TextNote
+PPVC 05, 16_Typ,Elevation D,11963394,TextNote
+PPVC 05, 16_Typ,Elevation D,12004833,TextNote
+PPVC 05, 16_Typ,Elevation D,12051248,TextNote
+PPVC 05, 16_Typ,Elevation D,12051683,TextNote
+PPVC 06_Typ,Elevation A,11540845,Dimension
+PPVC 06_Typ,Elevation A,11540882,Dimension
+PPVC 06_Typ,Elevation A,11542014,Dimension
+PPVC 06_Typ,Elevation A,11697959,Dimension
+PPVC 06_Typ,Elevation A,11698374,Dimension
+PPVC 06_Typ,Elevation A,11701682,Dimension
+PPVC 06_Typ,Elevation A,11722117,Dimension
+PPVC 06_Typ,Elevation A,11733748,Dimension
+PPVC 06_Typ,Elevation A,11779721,Dimension
+PPVC 06_Typ,Elevation A,11779858,Dimension
+PPVC 06_Typ,Elevation A,11787107,Dimension
+PPVC 06_Typ,Elevation A,11823317,Dimension
+PPVC 06_Typ,Elevation A,11824633,Dimension
+PPVC 06_Typ,Elevation A,11828526,Dimension
+PPVC 06_Typ,Elevation A,11837767,Dimension
+PPVC 06_Typ,Elevation A,11844423,Dimension
+PPVC 06_Typ,Elevation A,11544121,TextNote
+PPVC 06_Typ,Elevation A,11544320,TextNote
+PPVC 06_Typ,Elevation A,11545704,TextNote
+PPVC 06_Typ,Elevation A,11778347,TextNote
+PPVC 06_Typ,Elevation A,11778358,TextNote
+PPVC 06_Typ,Elevation A,11836168,TextNote
+PPVC 06_Typ,Elevation A,11836650,TextNote
+PPVC 06_Typ,Elevation B,11665169,Dimension
+PPVC 06_Typ,Elevation B,11725099,Dimension
+PPVC 06_Typ,Elevation B,11769782,Dimension
+PPVC 06_Typ,Elevation B,11770272,Dimension
+PPVC 06_Typ,Elevation B,11815131,Dimension
+PPVC 06_Typ,Elevation B,11815138,Dimension
+PPVC 06_Typ,Elevation B,11815308,Dimension
+PPVC 06_Typ,Elevation B,11843213,Dimension
+PPVC 06_Typ,Elevation B,11843438,Dimension
+PPVC 06_Typ,Elevation B,11545598,TextNote
+PPVC 06_Typ,Elevation B,11690101,TextNote
+PPVC 06_Typ,Elevation B,11778290,TextNote
+PPVC 06_Typ,Elevation B,11778301,TextNote
+PPVC 06_Typ,Elevation B,11786939,TextNote
+PPVC 06_Typ,Elevation C,11653571,Dimension
+PPVC 06_Typ,Elevation C,11668787,Dimension
+PPVC 06_Typ,Elevation C,11688295,Dimension
+PPVC 06_Typ,Elevation C,11688605,Dimension
+PPVC 06_Typ,Elevation C,11688628,Dimension
+PPVC 06_Typ,Elevation C,11688641,Dimension
+PPVC 06_Typ,Elevation C,11689300,Dimension
+PPVC 06_Typ,Elevation C,11692872,Dimension
+PPVC 06_Typ,Elevation C,11720785,Dimension
+PPVC 06_Typ,Elevation C,11727047,Dimension
+PPVC 06_Typ,Elevation C,11773225,Dimension
+PPVC 06_Typ,Elevation C,11775424,Dimension
+PPVC 06_Typ,Elevation C,11775486,Dimension
+PPVC 06_Typ,Elevation C,11775498,Dimension
+PPVC 06_Typ,Elevation C,11775747,Dimension
+PPVC 06_Typ,Elevation C,11776181,Dimension
+PPVC 06_Typ,Elevation C,11815728,Dimension
+PPVC 06_Typ,Elevation C,11815740,Dimension
+PPVC 06_Typ,Elevation C,11822314,Dimension
+PPVC 06_Typ,Elevation C,11842996,Dimension
+PPVC 06_Typ,Elevation C,11509645,TextNote
+PPVC 06_Typ,Elevation C,11531680,TextNote
+PPVC 06_Typ,Elevation C,11609111,TextNote
+PPVC 06_Typ,Elevation C,11775644,TextNote
+PPVC 06_Typ,Elevation C,11787175,TextNote
+PPVC 06_Typ,Elevation C,11822312,TextNote
+PPVC 06_Typ,Elevation C,11822597,TextNote
+PPVC 06_Typ,Elevation D,11533538,Dimension
+PPVC 06_Typ,Elevation D,11533562,Dimension
+PPVC 06_Typ,Elevation D,11534083,Dimension
+PPVC 06_Typ,Elevation D,11534848,Dimension
+PPVC 06_Typ,Elevation D,11629160,Dimension
+PPVC 06_Typ,Elevation D,11684582,Dimension
+PPVC 06_Typ,Elevation D,11684635,Dimension
+PPVC 06_Typ,Elevation D,11686905,Dimension
+PPVC 06_Typ,Elevation D,11724494,Dimension
+PPVC 06_Typ,Elevation D,11779927,Dimension
+PPVC 06_Typ,Elevation D,11780139,Dimension
+PPVC 06_Typ,Elevation D,11782349,Dimension
+PPVC 06_Typ,Elevation D,11782361,Dimension
+PPVC 06_Typ,Elevation D,11825828,Dimension
+PPVC 06_Typ,Elevation D,11826156,Dimension
+PPVC 06_Typ,Elevation D,11826706,Dimension
+PPVC 06_Typ,Elevation D,11843485,Dimension
+PPVC 06_Typ,Elevation D,11843759,Dimension
+PPVC 06_Typ,Elevation D,11844467,Dimension
+PPVC 06_Typ,Elevation D,11851945,Dimension
+PPVC 06_Typ,Elevation D,11851952,Dimension
+PPVC 06_Typ,Elevation D,11534666,TextNote
+PPVC 06_Typ,Elevation D,11534675,TextNote
+PPVC 06_Typ,Elevation D,11779941,TextNote
+PPVC 06_Typ,Elevation D,11782392,TextNote
+PPVC 06_Typ,Elevation D,11782403,TextNote
+PPVC 07_Typ,Elevation A,12333210,Dimension
+PPVC 07_Typ,Elevation A,12333222,Dimension
+PPVC 07_Typ,Elevation A,12333245,Dimension
+PPVC 07_Typ,Elevation A,12333470,Dimension
+PPVC 07_Typ,Elevation A,12333646,Dimension
+PPVC 07_Typ,Elevation A,12333763,Dimension
+PPVC 07_Typ,Elevation A,12333811,Dimension
+PPVC 07_Typ,Elevation A,12333857,Dimension
+PPVC 07_Typ,Elevation A,12401380,Dimension
+PPVC 07_Typ,Elevation A,12333787,TextNote
+PPVC 07_Typ,Elevation A,12333810,TextNote
+PPVC 07_Typ,Elevation B,12339167,Dimension
+PPVC 07_Typ,Elevation B,12339179,Dimension
+PPVC 07_Typ,Elevation B,12340648,Dimension
+PPVC 07_Typ,Elevation B,12340706,Dimension
+PPVC 07_Typ,Elevation B,12340789,Dimension
+PPVC 07_Typ,Elevation B,12340805,Dimension
+PPVC 07_Typ,Elevation B,12341022,Dimension
+PPVC 07_Typ,Elevation B,12431474,Dimension
+PPVC 07_Typ,Elevation B,12431504,Dimension
+PPVC 07_Typ,Elevation B,12342428,TextNote
+PPVC 07_Typ,Elevation B,12342436,TextNote
+PPVC 07_Typ,Elevation B,12342443,TextNote
+PPVC 07_Typ,Elevation C,12333973,Dimension
+PPVC 07_Typ,Elevation C,12333985,Dimension
+PPVC 07_Typ,Elevation C,12334008,Dimension
+PPVC 07_Typ,Elevation C,12334766,Dimension
+PPVC 07_Typ,Elevation C,12335081,Dimension
+PPVC 07_Typ,Elevation C,12335174,Dimension
+PPVC 07_Typ,Elevation C,12335208,Dimension
+PPVC 07_Typ,Elevation C,12335307,Dimension
+PPVC 07_Typ,Elevation C,12335551,Dimension
+PPVC 07_Typ,Elevation C,12353467,Dimension
+PPVC 07_Typ,Elevation C,12362017,Dimension
+PPVC 07_Typ,Elevation C,12362029,Dimension
+PPVC 07_Typ,Elevation C,12400506,Dimension
+PPVC 07_Typ,Elevation C,12400568,Dimension
+PPVC 07_Typ,Elevation C,12400755,Dimension
+PPVC 07_Typ,Elevation C,12400762,Dimension
+PPVC 07_Typ,Elevation C,12408733,Dimension
+PPVC 07_Typ,Elevation C,12417233,Dimension
+PPVC 07_Typ,Elevation C,12417240,Dimension
+PPVC 07_Typ,Elevation C,12417256,Dimension
+PPVC 07_Typ,Elevation C,12425059,Dimension
+PPVC 07_Typ,Elevation C,12432178,Dimension
+PPVC 07_Typ,Elevation C,12432692,Dimension
+PPVC 07_Typ,Elevation C,12433270,Dimension
+PPVC 07_Typ,Elevation C,12433449,Dimension
+PPVC 07_Typ,Elevation C,12335243,TextNote
+PPVC 07_Typ,Elevation C,12335251,TextNote
+PPVC 07_Typ,Elevation C,12335258,TextNote
+PPVC 07_Typ,Elevation C,12335586,TextNote
+PPVC 07_Typ,Elevation C,12335622,TextNote
+PPVC 07_Typ,Elevation C,12389066,TextNote
+PPVC 07_Typ,Elevation C,12433569,TextNote
+PPVC 07_Typ,Elevation D,12335816,Dimension
+PPVC 07_Typ,Elevation D,12335828,Dimension
+PPVC 07_Typ,Elevation D,12335840,Dimension
+PPVC 07_Typ,Elevation D,12336406,Dimension
+PPVC 07_Typ,Elevation D,12336452,Dimension
+PPVC 07_Typ,Elevation D,12336510,Dimension
+PPVC 07_Typ,Elevation D,12336533,Dimension
+PPVC 07_Typ,Elevation D,12336801,Dimension
+PPVC 07_Typ,Elevation D,12337180,Dimension
+PPVC 07_Typ,Elevation D,12337312,Dimension
+PPVC 07_Typ,Elevation D,12342563,Dimension
+PPVC 07_Typ,Elevation D,12362784,Dimension
+PPVC 07_Typ,Elevation D,12362791,Dimension
+PPVC 07_Typ,Elevation D,12363343,Dimension
+PPVC 07_Typ,Elevation D,12363929,Dimension
+PPVC 07_Typ,Elevation D,12363941,Dimension
+PPVC 07_Typ,Elevation D,12363977,Dimension
+PPVC 07_Typ,Elevation D,12402654,Dimension
+PPVC 07_Typ,Elevation D,12403415,Dimension
+PPVC 07_Typ,Elevation D,12417428,Dimension
+PPVC 07_Typ,Elevation D,12417755,Dimension
+PPVC 07_Typ,Elevation D,12419324,Dimension
+PPVC 07_Typ,Elevation D,12431036,Dimension
+PPVC 07_Typ,Elevation D,12432721,Dimension
+PPVC 07_Typ,Elevation D,12442038,Dimension
+PPVC 07_Typ,Elevation D,12336476,TextNote
+PPVC 07_Typ,Elevation D,12336509,TextNote
+PPVC 07_Typ,Elevation D,12337333,TextNote
+PPVC 07_Typ,Elevation D,12342527,TextNote
+PPVC 07_Typ,Elevation D,12403070,TextNote
+PPVC 08_Typ,Elevation A,12305986,Dimension
+PPVC 08_Typ,Elevation A,12305998,Dimension
+PPVC 08_Typ,Elevation A,12306021,Dimension
+PPVC 08_Typ,Elevation A,12306037,Dimension
+PPVC 08_Typ,Elevation A,12306101,Dimension
+PPVC 08_Typ,Elevation A,12306159,Dimension
+PPVC 08_Typ,Elevation A,12306337,Dimension
+PPVC 08_Typ,Elevation A,12325314,Dimension
+PPVC 08_Typ,Elevation A,12330040,Dimension
+PPVC 08_Typ,Elevation A,12357858,Dimension
+PPVC 08_Typ,Elevation A,12357958,Dimension
+PPVC 08_Typ,Elevation A,12358055,Dimension
+PPVC 08_Typ,Elevation A,12366527,Dimension
+PPVC 08_Typ,Elevation A,12378224,Dimension
+PPVC 08_Typ,Elevation A,12388210,Dimension
+PPVC 08_Typ,Elevation A,12388276,Dimension
+PPVC 08_Typ,Elevation A,12389312,Dimension
+PPVC 08_Typ,Elevation A,12306364,TextNote
+PPVC 08_Typ,Elevation A,12330617,TextNote
+PPVC 08_Typ,Elevation A,12358369,TextNote
+PPVC 08_Typ,Elevation A,12358676,TextNote
+PPVC 08_Typ,Elevation B,12309336,Dimension
+PPVC 08_Typ,Elevation B,12309349,Dimension
+PPVC 08_Typ,Elevation B,12309685,Dimension
+PPVC 08_Typ,Elevation B,12309776,Dimension
+PPVC 08_Typ,Elevation B,12309879,Dimension
+PPVC 08_Typ,Elevation B,12309895,Dimension
+PPVC 08_Typ,Elevation B,12309950,Dimension
+PPVC 08_Typ,Elevation B,12334194,Dimension
+PPVC 08_Typ,Elevation B,12381863,Dimension
+PPVC 08_Typ,Elevation B,12310056,TextNote
+PPVC 08_Typ,Elevation B,12310064,TextNote
+PPVC 08_Typ,Elevation C,12306557,Dimension
+PPVC 08_Typ,Elevation C,12308539,Dimension
+PPVC 08_Typ,Elevation C,12308562,Dimension
+PPVC 08_Typ,Elevation C,12308752,Dimension
+PPVC 08_Typ,Elevation C,12308768,Dimension
+PPVC 08_Typ,Elevation C,12308775,Dimension
+PPVC 08_Typ,Elevation C,12308794,Dimension
+PPVC 08_Typ,Elevation C,12309053,Dimension
+PPVC 08_Typ,Elevation C,12309110,Dimension
+PPVC 08_Typ,Elevation C,12333534,Dimension
+PPVC 08_Typ,Elevation C,12333674,Dimension
+PPVC 08_Typ,Elevation C,12333681,Dimension
+PPVC 08_Typ,Elevation C,12365658,Dimension
+PPVC 08_Typ,Elevation C,12365776,Dimension
+PPVC 08_Typ,Elevation C,12388315,Dimension
+PPVC 08_Typ,Elevation C,12388322,Dimension
+PPVC 08_Typ,Elevation C,12308840,TextNote
+PPVC 08_Typ,Elevation C,12308848,TextNote
+PPVC 08_Typ,Elevation C,12309046,TextNote
+PPVC 08_Typ,Elevation C,12365655,TextNote
+PPVC 08_Typ,Elevation D,12311752,Dimension
+PPVC 08_Typ,Elevation D,12311764,Dimension
+PPVC 08_Typ,Elevation D,12312854,Dimension
+PPVC 08_Typ,Elevation D,12312866,Dimension
+PPVC 08_Typ,Elevation D,12312873,Dimension
+PPVC 08_Typ,Elevation D,12312960,Dimension
+PPVC 08_Typ,Elevation D,12312984,Dimension
+PPVC 08_Typ,Elevation D,12313058,Dimension
+PPVC 08_Typ,Elevation D,12313104,Dimension
+PPVC 08_Typ,Elevation D,12334395,Dimension
+PPVC 08_Typ,Elevation D,12334464,Dimension
+PPVC 08_Typ,Elevation D,12335389,Dimension
+PPVC 08_Typ,Elevation D,12363192,Dimension
+PPVC 08_Typ,Elevation D,12372256,Dimension
+PPVC 08_Typ,Elevation D,12372287,Dimension
+PPVC 08_Typ,Elevation D,12377469,Dimension
+PPVC 08_Typ,Elevation D,12378896,Dimension
+PPVC 08_Typ,Elevation D,12313128,TextNote
+PPVC 08_Typ,Elevation D,12313136,TextNote
+PPVC 08_Typ,Elevation D,12313326,TextNote
+PPVC 08_Typ,Elevation D,12367509,TextNote
+PPVC 11_Typ,Elevation A,12316506,Dimension
+PPVC 11_Typ,Elevation A,12316523,Dimension
+PPVC 11_Typ,Elevation A,12316991,Dimension
+PPVC 11_Typ,Elevation A,12362635,Dimension
+PPVC 11_Typ,Elevation A,12364078,Dimension
+PPVC 11_Typ,Elevation A,12364661,Dimension
+PPVC 11_Typ,Elevation A,12411363,Dimension
+PPVC 11_Typ,Elevation A,12424993,Dimension
+PPVC 11_Typ,Elevation A,12316536,TextNote
+PPVC 11_Typ,Elevation A,12320135,TextNote
+PPVC 11_Typ,Elevation B,12324750,Dimension
+PPVC 11_Typ,Elevation B,12327705,Dimension
+PPVC 11_Typ,Elevation B,12327760,Dimension
+PPVC 11_Typ,Elevation B,12327776,Dimension
+PPVC 11_Typ,Elevation B,12327792,Dimension
+PPVC 11, 20_Typ,Elevation B,12327804,Dimension
+PPVC 11, 20_Typ,Elevation B,12327904,Dimension
+PPVC 11, 20_Typ,Elevation B,12328195,Dimension
+PPVC 11, 20_Typ,Elevation B,12386900,Dimension
+PPVC 11, 20_Typ,Elevation B,12386924,Dimension
+PPVC 11, 20_Typ,Elevation B,12398310,Dimension
+PPVC 11, 20_Typ,Elevation B,12443310,Dimension
+PPVC 11, 20_Typ,Elevation B,12463958,Dimension
+PPVC 11, 20_Typ,Elevation B,12464087,Dimension
+PPVC 11, 20_Typ,Elevation B,12472367,Dimension
+PPVC 11, 20_Typ,Elevation B,12324738,TextNote
+PPVC 11, 20_Typ,Elevation B,12324741,TextNote
+PPVC 11, 20_Typ,Elevation B,12324817,TextNote
+PPVC 11, 20_Typ,Elevation B,12464287,TextNote
+PPVC 11, 20_Typ,Elevation C,12318014,Dimension
+PPVC 11, 20_Typ,Elevation C,12318021,Dimension
+PPVC 11, 20_Typ,Elevation C,12318041,Dimension
+PPVC 11, 20_Typ,Elevation C,12318145,Dimension
+PPVC 11, 20_Typ,Elevation C,12318249,Dimension
+PPVC 11, 20_Typ,Elevation C,12318266,Dimension
+PPVC 11, 20_Typ,Elevation C,12322891,Dimension
+PPVC 11, 20_Typ,Elevation C,12366010,Dimension
+PPVC 11, 20_Typ,Elevation C,12367012,Dimension
+PPVC 11, 20_Typ,Elevation C,12367019,Dimension
+PPVC 11, 20_Typ,Elevation C,12367657,Dimension
+PPVC 11, 20_Typ,Elevation C,12367670,Dimension
+PPVC 11, 20_Typ,Elevation C,12425176,Dimension
+PPVC 11, 20_Typ,Elevation C,12425264,Dimension
+PPVC 11, 20_Typ,Elevation C,12425322,Dimension
+PPVC 11, 20_Typ,Elevation C,12441054,Dimension
+PPVC 11, 20_Typ,Elevation C,12472729,Dimension
+PPVC 11, 20_Typ,Elevation C,12318008,TextNote
+PPVC 11, 20_Typ,Elevation C,12326129,TextNote
+PPVC 11, 20_Typ,Elevation C,12367696,TextNote
+PPVC 11, 20_Typ,Elevation C,12436594,TextNote
+PPVC 11, 20_Typ,Elevation C,12475079,TextNote
+PPVC 11, 20_Typ,Elevation D,12331790,Dimension
+PPVC 11, 20_Typ,Elevation D,12333311,Dimension
+PPVC 11, 20_Typ,Elevation D,12333350,Dimension
+PPVC 11, 20_Typ,Elevation D,12370336,Dimension
+PPVC 11, 20_Typ,Elevation D,12370431,Dimension
+PPVC 11, 20_Typ,Elevation D,12370485,Dimension
+PPVC 11, 20_Typ,Elevation D,12411846,Dimension
+PPVC 11, 20_Typ,Elevation D,12426470,Dimension
+PPVC 11, 20_Typ,Elevation D,12442595,Dimension
+PPVC 11, 20_Typ,Elevation D,12442921,Dimension
+PPVC 11, 20_Typ,Elevation D,12446941,Dimension
+PPVC 11, 20_Typ,Elevation D,12459386,Dimension
+PPVC 11, 20_Typ,Elevation D,12469025,Dimension
+PPVC 11, 20_Typ,Elevation D,12469041,Dimension
+PPVC 11, 20_Typ,Elevation D,12469084,Dimension
+PPVC 11, 20_Typ,Elevation D,12475887,Dimension
+PPVC 11, 20_Typ,Elevation D,12476043,Dimension
+PPVC 11, 20_Typ,Elevation D,12521098,Dimension
+PPVC 11, 20_Typ,Elevation D,12331536,TextNote
+PPVC 11, 20_Typ,Elevation D,12331544,TextNote
+PPVC 11, 20_Typ,Elevation D,12394068,TextNote
+PPVC 12_Typ,Elevation A,12309963,Dimension
+PPVC 12_Typ,Elevation A,12309975,Dimension
+PPVC 12_Typ,Elevation A,12310031,Dimension
+PPVC 12_Typ,Elevation A,12385707,Dimension
+PPVC 12_Typ,Elevation A,12396759,Dimension
+PPVC 12_Typ,Elevation A,12401489,Dimension
+PPVC 12_Typ,Elevation A,12425083,Dimension
+PPVC 12_Typ,Elevation A,12462987,Dimension
+PPVC 12_Typ,Elevation A,12309882,TextNote
+PPVC 12_Typ,Elevation A,12335778,TextNote
+PPVC 12_Typ,Elevation A,12390495,TextNote
+PPVC 12_Typ,Elevation B,12312425,Dimension
+PPVC 12_Typ,Elevation B,12312453,Dimension
+PPVC 12_Typ,Elevation B,12312994,Dimension
+PPVC 12_Typ,Elevation B,12320466,Dimension
+PPVC 12_Typ,Elevation B,12365709,Dimension
+PPVC 12_Typ,Elevation B,12366054,Dimension
+PPVC 12_Typ,Elevation B,12403525,Dimension
+PPVC 12_Typ,Elevation B,12403546,Dimension
+PPVC 12_Typ,Elevation B,12403797,Dimension
+PPVC 12_Typ,Elevation B,12320483,TextNote
+PPVC 12_Typ,Elevation B,12365163,TextNote
+PPVC 12_Typ,Elevation C,12311433,Dimension
+PPVC 12_Typ,Elevation C,12312029,Dimension
+PPVC 12_Typ,Elevation C,12320180,Dimension
+PPVC 12_Typ,Elevation C,12350943,Dimension
+PPVC 12_Typ,Elevation C,12352900,Dimension
+PPVC 12_Typ,Elevation C,12352968,Dimension
+PPVC 12_Typ,Elevation C,12352996,Dimension
+PPVC 12_Typ,Elevation C,12369975,Dimension
+PPVC 12_Typ,Elevation C,12380016,Dimension
+PPVC 12_Typ,Elevation C,12391978,Dimension
+PPVC 12_Typ,Elevation C,12402535,Dimension
+PPVC 12_Typ,Elevation C,12402557,Dimension
+PPVC 12_Typ,Elevation C,12402714,Dimension
+PPVC 12_Typ,Elevation C,12418471,Dimension
+PPVC 12_Typ,Elevation C,12418697,Dimension
+PPVC 12_Typ,Elevation C,12418716,Dimension
+PPVC 12_Typ,Elevation C,12430963,Dimension
+PPVC 12_Typ,Elevation C,12463406,Dimension
+PPVC 12_Typ,Elevation C,12463427,Dimension
+PPVC 12_Typ,Elevation C,12466643,Dimension
+PPVC 12_Typ,Elevation C,12320342,TextNote
+PPVC 12_Typ,Elevation C,12320350,TextNote
+PPVC 12_Typ,Elevation C,12419013,TextNote
+PPVC 12_Typ,Elevation C,12455854,TextNote
+PPVC 12_Typ,Elevation D,12320544,Dimension
+PPVC 12_Typ,Elevation D,12364430,Dimension
+PPVC 12_Typ,Elevation D,12364470,Dimension
+PPVC 12_Typ,Elevation D,12366225,Dimension
+PPVC 12_Typ,Elevation D,12366237,Dimension
+PPVC 12_Typ,Elevation D,12368718,Dimension
+PPVC 12_Typ,Elevation D,12377537,Dimension
+PPVC 12_Typ,Elevation D,12391937,Dimension
+PPVC 12_Typ,Elevation D,12396586,Dimension
+PPVC 12_Typ,Elevation D,12396598,Dimension
+PPVC 12_Typ,Elevation D,12404743,Dimension
+PPVC 12_Typ,Elevation D,12420519,Dimension
+PPVC 12_Typ,Elevation D,12420527,Dimension
+PPVC 12_Typ,Elevation D,12420636,Dimension
+PPVC 12_Typ,Elevation D,12423504,Dimension
+PPVC 12_Typ,Elevation D,12431899,Dimension
+PPVC 12_Typ,Elevation D,12432131,Dimension
+PPVC 12_Typ,Elevation D,12432269,Dimension
+PPVC 12_Typ,Elevation D,12462880,Dimension
+PPVC 12_Typ,Elevation D,12315834,TextNote
+PPVC 12_Typ,Elevation D,12320542,TextNote
+PPVC 12_Typ,Elevation D,12397075,TextNote
+PPVC 12_Typ,Elevation D,12465014,TextNote
+PPVC 13_Typ,Elevation A,12270661,Dimension
+PPVC 13_Typ,Elevation A,12270743,Dimension
+PPVC 13_Typ,Elevation A,12270755,Dimension
+PPVC 13_Typ,Elevation A,12270853,Dimension
+PPVC 13_Typ,Elevation A,12271487,Dimension
+PPVC 13_Typ,Elevation A,12292134,Dimension
+PPVC 13_Typ,Elevation A,12326477,Dimension
+PPVC 13_Typ,Elevation A,12378925,Dimension
+PPVC 13_Typ,Elevation A,12383522,Dimension
+PPVC 13_Typ,Elevation A,12383529,Dimension
+PPVC 13_Typ,Elevation A,12383536,Dimension
+PPVC 13_Typ,Elevation A,12428196,Dimension
+PPVC 13_Typ,Elevation A,12428235,Dimension
+PPVC 13_Typ,Elevation A,12447224,Dimension
+PPVC 13_Typ,Elevation A,12454462,Dimension
+PPVC 13_Typ,Elevation A,12341231,TextNote
+PPVC 13_Typ,Elevation A,12372737,TextNote
+PPVC 13_Typ,Elevation B,12275846,Dimension
+PPVC 13_Typ,Elevation B,12275862,Dimension
+PPVC 13_Typ,Elevation B,12275900,Dimension
+PPVC 13_Typ,Elevation B,12276011,Dimension
+PPVC 13_Typ,Elevation B,12276396,Dimension
+PPVC 13_Typ,Elevation B,12278011,Dimension
+PPVC 13_Typ,Elevation B,12278018,Dimension
+PPVC 13_Typ,Elevation B,12311532,Dimension
+PPVC 13_Typ,Elevation B,12311879,Dimension
+PPVC 13_Typ,Elevation B,12323355,Dimension
+PPVC 13_Typ,Elevation B,12336282,Dimension
+PPVC 13_Typ,Elevation B,12336289,Dimension
+PPVC 13_Typ,Elevation B,12336497,Dimension
+PPVC 13_Typ,Elevation B,12378721,Dimension
+PPVC 13_Typ,Elevation B,12378841,Dimension
+PPVC 13_Typ,Elevation B,12378848,Dimension
+PPVC 13_Typ,Elevation B,12425286,Dimension
+PPVC 13_Typ,Elevation B,12425298,Dimension
+PPVC 13_Typ,Elevation B,12445874,Dimension
+PPVC 13_Typ,Elevation B,12445881,Dimension
+PPVC 13_Typ,Elevation B,12276720,TextNote
+PPVC 13_Typ,Elevation B,12276728,TextNote
+PPVC 13_Typ,Elevation B,12277653,TextNote
+PPVC 13_Typ,Elevation B,12278764,TextNote
+PPVC 13_Typ,Elevation B,12311574,TextNote
+PPVC 13_Typ,Elevation B,12378858,TextNote
+PPVC 13_Typ,Elevation B,12445934,TextNote
+PPVC 13_Typ,Elevation B,12450626,TextNote
+PPVC 13_Typ,Elevation C,12268548,Dimension
+PPVC 13_Typ,Elevation C,12268564,Dimension
+PPVC 13_Typ,Elevation C,12268578,Dimension
+PPVC 13_Typ,Elevation C,12269808,Dimension
+PPVC 13_Typ,Elevation C,12270101,Dimension
+PPVC 13_Typ,Elevation C,12270114,Dimension
+PPVC 13_Typ,Elevation C,12270221,Dimension
+PPVC 13_Typ,Elevation C,12270228,Dimension
+PPVC 13_Typ,Elevation C,12270270,Dimension
+PPVC 13_Typ,Elevation C,12283468,Dimension
+PPVC 13_Typ,Elevation C,12294060,Dimension
+PPVC 13_Typ,Elevation C,12294196,Dimension
+PPVC 13_Typ,Elevation C,12298024,Dimension
+PPVC 13_Typ,Elevation C,12331116,Dimension
+PPVC 13_Typ,Elevation C,12354850,Dimension
+PPVC 13_Typ,Elevation C,12369251,Dimension
+PPVC 13_Typ,Elevation C,12369377,Dimension
+PPVC 13_Typ,Elevation C,12369819,Dimension
+PPVC 13_Typ,Elevation C,12386382,Dimension
+PPVC 13_Typ,Elevation C,12396340,Dimension
+PPVC 13_Typ,Elevation C,12424204,Dimension
+PPVC 13_Typ,Elevation C,12427913,Dimension
+PPVC 13_Typ,Elevation C,12440441,Dimension
+PPVC 13_Typ,Elevation C,12443016,Dimension
+PPVC 13_Typ,Elevation C,12446766,Dimension
+PPVC 13_Typ,Elevation C,12446812,Dimension
+PPVC 13_Typ,Elevation C,12446869,Dimension
+PPVC 13_Typ,Elevation C,12454484,Dimension
+PPVC 13_Typ,Elevation C,12269801,TextNote
+PPVC 13_Typ,Elevation C,12269807,TextNote
+PPVC 13_Typ,Elevation C,12270264,TextNote
+PPVC 13_Typ,Elevation C,12280568,TextNote
+PPVC 13_Typ,Elevation C,12370132,TextNote
+PPVC 13_Typ,Elevation C,12430821,TextNote
+PPVC 13_Typ,Elevation D,12271903,Dimension
+PPVC 13_Typ,Elevation D,12272292,Dimension
+PPVC 13_Typ,Elevation D,12272311,Dimension
+PPVC 13_Typ,Elevation D,12275182,Dimension
+PPVC 13_Typ,Elevation D,12302278,Dimension
+PPVC 13_Typ,Elevation D,12302285,Dimension
+PPVC 13_Typ,Elevation D,12323515,Dimension
+PPVC 13_Typ,Elevation D,12323614,Dimension
+PPVC 13_Typ,Elevation D,12323760,Dimension
+PPVC 13_Typ,Elevation D,12324455,Dimension
+PPVC 13_Typ,Elevation D,12325417,Dimension
+PPVC 13_Typ,Elevation D,12336728,Dimension
+PPVC 13_Typ,Elevation D,12337967,Dimension
+PPVC 13_Typ,Elevation D,12339074,Dimension
+PPVC 13_Typ,Elevation D,12356745,Dimension
+PPVC 13_Typ,Elevation D,12368270,Dimension
+PPVC 13_Typ,Elevation D,12385841,Dimension
+PPVC 13_Typ,Elevation D,12408350,Dimension
+PPVC 13_Typ,Elevation D,12443437,Dimension
+PPVC 13_Typ,Elevation D,12302160,TextNote
+PPVC 13_Typ,Elevation D,12325573,TextNote
+PPVC 13_Typ,Elevation D,12327914,TextNote
+PPVC 13_Typ,Elevation D,12338598,TextNote
+PPVC 13_Typ,Elevation D,12357102,TextNote
+PPVC 13_Typ,Elevation D,12360724,TextNote
+PPVC 13_Typ,Elevation D,12370545,TextNote
+PPVC 13_Typ,Elevation D,12370590,TextNote
+PPVC 15_Typ,Elevation A,11536375,Dimension
+PPVC 15_Typ,Elevation A,11536391,Dimension
+PPVC 15_Typ,Elevation A,11613517,Dimension
+PPVC 15_Typ,Elevation A,11665169,Dimension
+PPVC 15_Typ,Elevation A,11683702,Dimension
+PPVC 15_Typ,Elevation A,11725099,Dimension
+PPVC 15_Typ,Elevation A,11819336,Dimension
+PPVC 15_Typ,Elevation A,11819765,Dimension
+PPVC 15_Typ,Elevation A,11882199,Dimension
+PPVC 15_Typ,Elevation A,11882222,Dimension
+PPVC 15_Typ,Elevation A,11545598,TextNote
+PPVC 15_Typ,Elevation A,11690101,TextNote
+PPVC 15_Typ,Elevation A,11776202,TextNote
+PPVC 15_Typ,Elevation B,11540845,Dimension
+PPVC 15_Typ,Elevation B,11540882,Dimension
+PPVC 15_Typ,Elevation B,11541929,Dimension
+PPVC 15_Typ,Elevation B,11542014,Dimension
+PPVC 15_Typ,Elevation B,11697959,Dimension
+PPVC 15_Typ,Elevation B,11698374,Dimension
+PPVC 15_Typ,Elevation B,11701682,Dimension
+PPVC 15_Typ,Elevation B,11722117,Dimension
+PPVC 15_Typ,Elevation B,11733748,Dimension
+PPVC 15_Typ,Elevation B,11759704,Dimension
+PPVC 15_Typ,Elevation B,11770931,Dimension
+PPVC 15_Typ,Elevation B,11778641,Dimension
+PPVC 15_Typ,Elevation B,11778867,Dimension
+PPVC 15_Typ,Elevation B,11795220,Dimension
+PPVC 15_Typ,Elevation B,11795313,Dimension
+PPVC 15_Typ,Elevation B,11809058,Dimension
+PPVC 15_Typ,Elevation B,11820075,Dimension
+PPVC 15_Typ,Elevation B,11872181,Dimension
+PPVC 15_Typ,Elevation B,11874051,Dimension
+PPVC 15_Typ,Elevation B,11544121,TextNote
+PPVC 15_Typ,Elevation B,11544320,TextNote
+PPVC 15_Typ,Elevation B,11545704,TextNote
+PPVC 15_Typ,Elevation B,11613796,TextNote
+PPVC 15_Typ,Elevation B,11613799,TextNote
+PPVC 15_Typ,Elevation B,11770969,TextNote
+PPVC 15_Typ,Elevation B,11795328,TextNote
+PPVC 15_Typ,Elevation C,11533538,Dimension
+PPVC 15_Typ,Elevation C,11533562,Dimension
+PPVC 15_Typ,Elevation C,11534083,Dimension
+PPVC 15_Typ,Elevation C,11534848,Dimension
+PPVC 15_Typ,Elevation C,11629160,Dimension
+PPVC 15_Typ,Elevation C,11684582,Dimension
+PPVC 15_Typ,Elevation C,11684635,Dimension
+PPVC 15_Typ,Elevation C,11686905,Dimension
+PPVC 15_Typ,Elevation C,11697603,Dimension
+PPVC 15_Typ,Elevation C,11697675,Dimension
+PPVC 15_Typ,Elevation C,11718853,Dimension
+PPVC 15_Typ,Elevation C,11724494,Dimension
+PPVC 15_Typ,Elevation C,11766525,Dimension
+PPVC 15_Typ,Elevation C,11797682,Dimension
+PPVC 15_Typ,Elevation C,11816800,Dimension
+PPVC 15_Typ,Elevation C,11816807,Dimension
+PPVC 15_Typ,Elevation C,11823458,Dimension
+PPVC 15_Typ,Elevation C,11852328,Dimension
+PPVC 15_Typ,Elevation C,11855068,Dimension
+PPVC 15_Typ,Elevation C,11882540,Dimension
+PPVC 15_Typ,Elevation C,11883630,Dimension
+PPVC 15_Typ,Elevation C,11887278,Dimension
+PPVC 15_Typ,Elevation C,11887285,Dimension
+PPVC 15_Typ,Elevation C,11534666,TextNote
+PPVC 15_Typ,Elevation C,11534675,TextNote
+PPVC 15_Typ,Elevation C,11775393,TextNote
+PPVC 15_Typ,Elevation C,11775404,TextNote
+PPVC 15_Typ,Elevation C,11776194,TextNote
+PPVC 15_Typ,Elevation C,11794312,TextNote
+PPVC 15_Typ,Elevation C,11886364,TextNote
+PPVC 15_Typ,Elevation D,11653571,Dimension
+PPVC 15_Typ,Elevation D,11668787,Dimension
+PPVC 15_Typ,Elevation D,11688295,Dimension
+PPVC 15_Typ,Elevation D,11688605,Dimension
+PPVC 15_Typ,Elevation D,11688628,Dimension
+PPVC 15_Typ,Elevation D,11692872,Dimension
+PPVC 15_Typ,Elevation D,11698314,Dimension
+PPVC 15_Typ,Elevation D,11720785,Dimension
+PPVC 15_Typ,Elevation D,11727047,Dimension
+PPVC 15_Typ,Elevation D,11727059,Dimension
+PPVC 15_Typ,Elevation D,11751323,Dimension
+PPVC 15_Typ,Elevation D,11761577,Dimension
+PPVC 15_Typ,Elevation D,11761589,Dimension
+PPVC 15_Typ,Elevation D,11779787,Dimension
+PPVC 15_Typ,Elevation D,11799126,Dimension
+PPVC 15_Typ,Elevation D,11810558,Dimension
+PPVC 15_Typ,Elevation D,11810816,Dimension
+PPVC 15_Typ,Elevation D,11817506,Dimension
+PPVC 15_Typ,Elevation D,11834738,Dimension
+PPVC 15_Typ,Elevation D,11835746,Dimension
+PPVC 15_Typ,Elevation D,11852972,Dimension
+PPVC 15_Typ,Elevation D,11852979,Dimension
+PPVC 15_Typ,Elevation D,11877315,Dimension
+PPVC 15_Typ,Elevation D,11877861,Dimension
+PPVC 15_Typ,Elevation D,11877956,Dimension
+PPVC 15_Typ,Elevation D,11877968,Dimension
+PPVC 15_Typ,Elevation D,11509645,TextNote
+PPVC 15_Typ,Elevation D,11531680,TextNote
+PPVC 15_Typ,Elevation D,11531706,TextNote
+PPVC 15_Typ,Elevation D,11609111,TextNote
+PPVC 15_Typ,Elevation D,11612219,TextNote
+PPVC 15_Typ,Elevation D,11757816,TextNote
+PPVC 15_Typ,Elevation D,11760731,TextNote
+PPVC 15_Typ,Elevation D,11794844,TextNote
+PPVC 19_Typ,Elevation A,12321263,Dimension
+PPVC 19_Typ,Elevation A,12321275,Dimension
+PPVC 19_Typ,Elevation A,12321298,Dimension
+PPVC 19_Typ,Elevation A,12321329,Dimension
+PPVC 19_Typ,Elevation A,12321368,Dimension
+PPVC 19_Typ,Elevation A,12321389,Dimension
+PPVC 19_Typ,Elevation A,12321434,Dimension
+PPVC 19_Typ,Elevation A,12321450,Dimension
+PPVC 19_Typ,Elevation A,12321485,TextNote
+PPVC 19_Typ,Elevation A,12321493,TextNote
+PPVC 19_Typ,Elevation B,12327398,Dimension
+PPVC 19_Typ,Elevation B,12327410,Dimension
+PPVC 19_Typ,Elevation B,12327422,Dimension
+PPVC 19_Typ,Elevation B,12328716,Dimension
+PPVC 19_Typ,Elevation B,12328728,Dimension
+PPVC 19_Typ,Elevation B,12328747,Dimension
+PPVC 19_Typ,Elevation B,12328807,Dimension
+PPVC 19_Typ,Elevation B,12328867,Dimension
+PPVC 19_Typ,Elevation B,12329271,Dimension
+PPVC 19_Typ,Elevation B,12352079,Dimension
+PPVC 19_Typ,Elevation B,12403620,Dimension
+PPVC 19_Typ,Elevation B,12329264,TextNote
+PPVC 19_Typ,Elevation B,12329270,TextNote
+PPVC 19_Typ,Elevation B,12329322,TextNote
+PPVC 19_Typ,Elevation C,12323402,Dimension
+PPVC 19_Typ,Elevation C,12323426,Dimension
+PPVC 19_Typ,Elevation C,12323551,Dimension
+PPVC 19_Typ,Elevation C,12323575,Dimension
+PPVC 19_Typ,Elevation C,12323614,Dimension
+PPVC 19_Typ,Elevation C,12323638,Dimension
+PPVC 19_Typ,Elevation C,12324017,Dimension
+PPVC 19_Typ,Elevation C,12333626,Dimension
+PPVC 19_Typ,Elevation C,12348187,Dimension
+PPVC 19_Typ,Elevation C,12349207,Dimension
+PPVC 19_Typ,Elevation C,12397767,Dimension
+PPVC 19_Typ,Elevation C,12397774,Dimension
+PPVC 19_Typ,Elevation C,12403055,Dimension
+PPVC 19_Typ,Elevation C,12323989,TextNote
+PPVC 19_Typ,Elevation C,12323997,TextNote
+PPVC 19_Typ,Elevation C,12324062,TextNote
+PPVC 19_Typ,Elevation C,12389309,TextNote
+PPVC 19_Typ,Elevation D,12326689,Dimension
+PPVC 19_Typ,Elevation D,12326701,Dimension
+PPVC 19_Typ,Elevation D,12326739,Dimension
+PPVC 19_Typ,Elevation D,12326751,Dimension
+PPVC 19_Typ,Elevation D,12326774,Dimension
+PPVC 19_Typ,Elevation D,12326797,Dimension
+PPVC 19_Typ,Elevation D,12326831,Dimension
+PPVC 19_Typ,Elevation D,12326861,Dimension
+PPVC 19_Typ,Elevation D,12326877,Dimension
+PPVC 19_Typ,Elevation D,12326889,Dimension
+PPVC 19_Typ,Elevation D,12326905,Dimension
+PPVC 19_Typ,Elevation D,12326912,Dimension
+PPVC 19_Typ,Elevation D,12327052,Dimension
+PPVC 19_Typ,Elevation D,12329882,Dimension
+PPVC 19_Typ,Elevation D,12350686,Dimension
+PPVC 19_Typ,Elevation D,12351013,Dimension
+PPVC 19_Typ,Elevation D,12324478,TextNote
+PPVC 19_Typ,Elevation D,12326677,TextNote
+PPVC 19_Typ,Elevation D,12326822,TextNote
+PPVC 19_Typ,Elevation D,12326829,TextNote
+PPVC 19_Typ,Elevation D,12326860,TextNote
+PPVC 20_Typ,Elevation A,12341375,Dimension
+PPVC 20_Typ,Elevation A,12330615,TextNote
+PPVC 20_Typ,Elevation A,12341852,TextNote
+PPVC 20_Typ,Elevation B,12346873,Dimension
+PPVC 20_Typ,Elevation B,12346897,Dimension
+PPVC 20_Typ,Elevation B,12346954,Dimension
+PPVC 20_Typ,Elevation B,12347539,Dimension
+PPVC 20_Typ,Elevation B,12347562,Dimension
+PPVC 20_Typ,Elevation B,12347581,Dimension
+PPVC 20_Typ,Elevation B,12347604,Dimension
+PPVC 20_Typ,Elevation B,12331531,TextNote
+PPVC 20_Typ,Elevation B,12331651,TextNote
+PPVC 20_Typ,Elevation B,12347683,TextNote
+PPVC 20_Typ,Elevation B,12347813,TextNote
+PPVC 20_Typ,Elevation C,12349592,Dimension
+PPVC 20_Typ,Elevation C,12349611,Dimension
+PPVC 20_Typ,Elevation C,12349896,Dimension
+PPVC 20_Typ,Elevation C,12350141,Dimension
+PPVC 20_Typ,Elevation C,12350309,Dimension
+PPVC 20_Typ,Elevation C,12378574,Dimension
+PPVC 20_Typ,Elevation C,12381564,Dimension
+PPVC 20_Typ,Elevation C,12331973,TextNote
+PPVC 20_Typ,Elevation C,12350938,TextNote
+PPVC 20_Typ,Elevation C,12350945,TextNote
+PPVC 20_Typ,Elevation C,12378321,TextNote
+PPVC 20_Typ,Elevation C,12378573,TextNote
+PPVC 20_Typ,Elevation D,12352366,Dimension
+PPVC 20_Typ,Elevation D,12352390,Dimension
+PPVC 20_Typ,Elevation D,12352586,Dimension
+PPVC 20_Typ,Elevation D,12353136,Dimension
+PPVC 20_Typ,Elevation D,12354353,Dimension
+PPVC 20_Typ,Elevation D,12354661,Dimension
+PPVC 20_Typ,Elevation D,12380590,Dimension
+PPVC 20_Typ,Elevation D,12333351,TextNote
+PPVC 20_Typ,Elevation D,12354146,TextNote
+PPVC 20_Typ,Elevation D,12354158,TextNote
+PPVC 20_Typ,Elevation D,12355355,TextNote
+PPVC 20_Typ,Elevation D,12355382,TextNote
+PPVC 20_Typ,Elevation D,12359217,TextNote
+PPVC 20_Typ,Elevation D,12379886,TextNote
+PPVC 21,31 Typ,Elevation A,12300007,Dimension
+PPVC 21,31 Typ,Elevation A,12300037,Dimension
+PPVC 21,31 Typ,Elevation A,12300071,Dimension
+PPVC 21,31 Typ,Elevation A,12300259,Dimension
+PPVC 21,31 Typ,Elevation A,12300312,Dimension
+PPVC 21,31 Typ,Elevation A,12300385,Dimension
+PPVC 21,31 Typ,Elevation A,12300392,Dimension
+PPVC 21,31 Typ,Elevation A,12300462,Dimension
+PPVC 21,31 Typ,Elevation A,12300595,Dimension
+PPVC 21,31 Typ,Elevation A,12321497,Dimension
+PPVC 21,31 Typ,Elevation A,12300630,TextNote
+PPVC 21,31 Typ,Elevation A,12311689,TextNote
+PPVC 21,31 Typ,Elevation B,12304101,Dimension
+PPVC 21,31 Typ,Elevation B,12304113,Dimension
+PPVC 21,31 Typ,Elevation B,12304137,Dimension
+PPVC 21,31 Typ,Elevation B,12304149,Dimension
+PPVC 21,31 Typ,Elevation B,12304207,Dimension
+PPVC 21,31 Typ,Elevation B,12304272,Dimension
+PPVC 21,31 Typ,Elevation B,12304288,Dimension
+PPVC 21,31 Typ,Elevation B,12304346,Dimension
+PPVC 21,31 Typ,Elevation B,12304369,Dimension
+PPVC 21,31 Typ,Elevation B,12319488,Dimension
+PPVC 21,31 Typ,Elevation B,12304910,TextNote
+PPVC 21,31 Typ,Elevation B,12311662,TextNote
+PPVC 21,31 Typ,Elevation C,12302628,Dimension
+PPVC 21,31 Typ,Elevation C,12302641,Dimension
+PPVC 21,31 Typ,Elevation C,12302664,Dimension
+PPVC 21,31 Typ,Elevation C,12302695,Dimension
+PPVC 21,31 Typ,Elevation C,12302711,Dimension
+PPVC 21,31 Typ,Elevation C,12302727,Dimension
+PPVC 21,31 Typ,Elevation C,12302774,Dimension
+PPVC 21,31 Typ,Elevation C,12302814,Dimension
+PPVC 21,31 Typ,Elevation C,12319772,Dimension
+PPVC 21,31 Typ,Elevation C,12303021,TextNote
+PPVC 21,31 Typ,Elevation C,12311709,TextNote
+PPVC 21,31 Typ,Elevation D,12307460,Dimension
+PPVC 21,31 Typ,Elevation D,12307472,Dimension
+PPVC 21,31 Typ,Elevation D,12307518,Dimension
+PPVC 21,31 Typ,Elevation D,12307594,Dimension
+PPVC 21,31 Typ,Elevation D,12307626,Dimension
+PPVC 21,31 Typ,Elevation D,12307707,Dimension
+PPVC 21,31 Typ,Elevation D,12307724,Dimension
+PPVC 21,31 Typ,Elevation D,12307772,Dimension
+PPVC 21,31 Typ,Elevation D,12307788,Dimension
+PPVC 21,31 Typ,Elevation D,12307795,Dimension
+PPVC 21,31 Typ,Elevation D,12307748,TextNote
+PPVC 21,31 Typ,Elevation D,12311783,TextNote
+PPVC 22_Typ,Elevation A,12300411,Dimension
+PPVC 22_Typ,Elevation A,12300445,Dimension
+PPVC 22_Typ,Elevation A,12300468,Dimension
+PPVC 22_Typ,Elevation A,12300538,Dimension
+PPVC 22_Typ,Elevation A,12300551,Dimension
+PPVC 22_Typ,Elevation A,12300559,Dimension
+PPVC 22_Typ,Elevation A,12300662,Dimension
+PPVC 22_Typ,Elevation A,12300780,Dimension
+PPVC 22_Typ,Elevation A,12323591,Dimension
+PPVC 22_Typ,Elevation A,12368682,Dimension
+PPVC 22_Typ,Elevation A,12300938,TextNote
+PPVC 22_Typ,Elevation A,12304160,TextNote
+PPVC 22_Typ,Elevation A,12380366,TextNote
+PPVC 22_Typ,Elevation B,12306237,Dimension
+PPVC 22_Typ,Elevation B,12306249,Dimension
+PPVC 22_Typ,Elevation B,12306628,Dimension
+PPVC 22_Typ,Elevation B,12306884,Dimension
+PPVC 22_Typ,Elevation B,12306896,Dimension
+PPVC 22_Typ,Elevation B,12306953,Dimension
+PPVC 22_Typ,Elevation B,12306980,Dimension
+PPVC 22_Typ,Elevation B,12307034,Dimension
+PPVC 22_Typ,Elevation B,12391380,Dimension
+PPVC 22_Typ,Elevation B,12397889,Dimension
+PPVC 22_Typ,Elevation B,12306949,TextNote
+PPVC 22_Typ,Elevation C,12304162,Dimension
+PPVC 22_Typ,Elevation C,12304770,Dimension
+PPVC 22_Typ,Elevation C,12305987,Dimension
+PPVC 22_Typ,Elevation C,12306081,Dimension
+PPVC 22_Typ,Elevation C,12306121,Dimension
+PPVC 22_Typ,Elevation C,12327606,Dimension
+PPVC 22_Typ,Elevation C,12328226,Dimension
+PPVC 22_Typ,Elevation C,12334061,Dimension
+PPVC 22_Typ,Elevation C,12354707,Dimension
+PPVC 22_Typ,Elevation C,12362783,Dimension
+PPVC 22_Typ,Elevation C,12366267,Dimension
+PPVC 22_Typ,Elevation C,12306105,TextNote
+PPVC 22_Typ,Elevation C,12306113,TextNote
+PPVC 22_Typ,Elevation C,12306155,TextNote
+PPVC 22_Typ,Elevation C,12312631,TextNote
+PPVC 22_Typ,Elevation C,12380362,TextNote
+PPVC 22_Typ,Elevation D,12307804,Dimension
+PPVC 22_Typ,Elevation D,12307816,Dimension
+PPVC 22_Typ,Elevation D,12307839,Dimension
+PPVC 22_Typ,Elevation D,12307851,Dimension
+PPVC 22_Typ,Elevation D,12307882,Dimension
+PPVC 22_Typ,Elevation D,12307898,Dimension
+PPVC 22_Typ,Elevation D,12308118,Dimension
+PPVC 22_Typ,Elevation D,12309014,Dimension
+PPVC 22_Typ,Elevation D,12309064,Dimension
+PPVC 22_Typ,Elevation D,12309012,TextNote
+PPVC 22_Typ,Elevation D,12309043,TextNote
+PPVC 22_Typ,Elevation D,12309063,TextNote
+PPVC 22_Typ,Elevation D,12330008,TextNote
+PPVC 25_Typ,Elevation A,12314627,Dimension
+PPVC 25_Typ,Elevation A,12314661,Dimension
+PPVC 25_Typ,Elevation A,12314695,Dimension
+PPVC 25_Typ,Elevation A,12314707,Dimension
+PPVC 25_Typ,Elevation A,12314723,Dimension
+PPVC 25_Typ,Elevation A,12314814,Dimension
+PPVC 25_Typ,Elevation A,12314894,Dimension
+PPVC 25_Typ,Elevation A,12365821,Dimension
+PPVC 25_Typ,Elevation A,12367430,Dimension
+PPVC 25_Typ,Elevation A,12314832,TextNote
+PPVC 25_Typ,Elevation B,12315928,Dimension
+PPVC 25_Typ,Elevation B,12315940,Dimension
+PPVC 25_Typ,Elevation B,12315958,Dimension
+PPVC 25_Typ,Elevation B,12316091,Dimension
+PPVC 25_Typ,Elevation B,12316122,Dimension
+PPVC 25_Typ,Elevation B,12316277,Dimension
+PPVC 25_Typ,Elevation B,12327420,Dimension
+PPVC 25_Typ,Elevation B,12348508,Dimension
+PPVC 25_Typ,Elevation B,12348619,Dimension
+PPVC 25_Typ,Elevation B,12354864,Dimension
+PPVC 25_Typ,Elevation B,12369074,Dimension
+PPVC 25_Typ,Elevation B,12369081,Dimension
+PPVC 25_Typ,Elevation B,12316276,TextNote
+PPVC 25_Typ,Elevation B,12348507,TextNote
+PPVC 25_Typ,Elevation C,12314907,Dimension
+PPVC 25_Typ,Elevation C,12314919,Dimension
+PPVC 25_Typ,Elevation C,12314931,Dimension
+PPVC 25_Typ,Elevation C,12315162,Dimension
+PPVC 25_Typ,Elevation C,12315178,Dimension
+PPVC 25_Typ,Elevation C,12315228,Dimension
+PPVC 25_Typ,Elevation C,12315259,Dimension
+PPVC 25_Typ,Elevation C,12326700,Dimension
+PPVC 25_Typ,Elevation C,12326716,Dimension
+PPVC 25_Typ,Elevation C,12326743,Dimension
+PPVC 25_Typ,Elevation C,12326984,Dimension
+PPVC 25_Typ,Elevation C,12352965,Dimension
+PPVC 25_Typ,Elevation C,12362682,Dimension
+PPVC 25_Typ,Elevation C,12370904,Dimension
+PPVC 25_Typ,Elevation C,12370911,Dimension
+PPVC 25_Typ,Elevation C,12370923,Dimension
+PPVC 25_Typ,Elevation C,12315750,TextNote
+PPVC 25_Typ,Elevation C,12315775,TextNote
+PPVC 25_Typ,Elevation C,12315783,TextNote
+PPVC 25_Typ,Elevation D,12316355,Dimension
+PPVC 25_Typ,Elevation D,12316398,Dimension
+PPVC 25_Typ,Elevation D,12316410,Dimension
+PPVC 25_Typ,Elevation D,12316452,Dimension
+PPVC 25_Typ,Elevation D,12316584,Dimension
+PPVC 25_Typ,Elevation D,12316600,Dimension
+PPVC 25_Typ,Elevation D,12328018,Dimension
+PPVC 25_Typ,Elevation D,12348113,Dimension
+PPVC 25_Typ,Elevation D,12348127,Dimension
+PPVC 25_Typ,Elevation D,12348227,Dimension
+PPVC 25_Typ,Elevation D,12369245,Dimension
+PPVC 25_Typ,Elevation D,12369253,Dimension
+PPVC 25_Typ,Elevation D,12316577,TextNote
+PPVC 25_Typ,Elevation D,12316583,TextNote
+PPVC 26_Typ,Elevation A,12308408,Dimension
+PPVC 26_Typ,Elevation A,12308420,Dimension
+PPVC 26_Typ,Elevation A,12308452,Dimension
+PPVC 26_Typ,Elevation A,12308491,Dimension
+PPVC 26_Typ,Elevation A,12308512,Dimension
+PPVC 26_Typ,Elevation A,12308519,Dimension
+PPVC 26_Typ,Elevation A,12308914,Dimension
+PPVC 26_Typ,Elevation A,12309119,Dimension
+PPVC 26_Typ,Elevation A,12385295,Dimension
+PPVC 26_Typ,Elevation A,12385307,Dimension
+PPVC 26_Typ,Elevation A,12309165,TextNote
+PPVC 26_Typ,Elevation A,12309173,TextNote
+PPVC 26_Typ,Elevation A,12385328,TextNote
+PPVC 26_Typ,Elevation B,12312002,Dimension
+PPVC 26_Typ,Elevation B,12312189,Dimension
+PPVC 26_Typ,Elevation B,12312202,Dimension
+PPVC 26_Typ,Elevation B,12312215,Dimension
+PPVC 26_Typ,Elevation B,12312398,Dimension
+PPVC 26_Typ,Elevation B,12312495,Dimension
+PPVC 26_Typ,Elevation B,12312511,Dimension
+PPVC 26_Typ,Elevation B,12364262,Dimension
+PPVC 26_Typ,Elevation B,12364289,Dimension
+PPVC 26_Typ,Elevation B,12364352,Dimension
+PPVC 26_Typ,Elevation B,12369710,Dimension
+PPVC 26_Typ,Elevation B,12373706,Dimension
+PPVC 26_Typ,Elevation B,12374080,Dimension
+PPVC 26_Typ,Elevation B,12312424,TextNote
+PPVC 26_Typ,Elevation B,12312432,TextNote
+PPVC 26_Typ,Elevation B,12364620,TextNote
+PPVC 26_Typ,Elevation C,12310549,Dimension
+PPVC 26_Typ,Elevation C,12310561,Dimension
+PPVC 26_Typ,Elevation C,12310573,Dimension
+PPVC 26_Typ,Elevation C,12310615,Dimension
+PPVC 26_Typ,Elevation C,12310673,Dimension
+PPVC 26_Typ,Elevation C,12310773,Dimension
+PPVC 26_Typ,Elevation C,12310889,Dimension
+PPVC 26_Typ,Elevation C,12322146,Dimension
+PPVC 26_Typ,Elevation C,12333269,Dimension
+PPVC 26_Typ,Elevation C,12362757,Dimension
+PPVC 26_Typ,Elevation C,12362805,Dimension
+PPVC 26_Typ,Elevation C,12368776,Dimension
+PPVC 26_Typ,Elevation C,12370251,Dimension
+PPVC 26_Typ,Elevation C,12310982,TextNote
+PPVC 26_Typ,Elevation C,12310990,TextNote
+PPVC 26_Typ,Elevation C,12311219,TextNote
+PPVC 26_Typ,Elevation C,12363071,TextNote
+PPVC 26_Typ,Elevation D,12320423,Dimension
+PPVC 26_Typ,Elevation D,12320459,Dimension
+PPVC 26_Typ,Elevation D,12320505,Dimension
+PPVC 26_Typ,Elevation D,12321111,Dimension
+PPVC 26_Typ,Elevation D,12321226,Dimension
+PPVC 26_Typ,Elevation D,12321402,Dimension
+PPVC 26_Typ,Elevation D,12321464,Dimension
+PPVC 26_Typ,Elevation D,12328732,Dimension
+PPVC 26_Typ,Elevation D,12352662,Dimension
+PPVC 26_Typ,Elevation D,12365292,Dimension
+PPVC 26_Typ,Elevation D,12365316,Dimension
+PPVC 26_Typ,Elevation D,12388828,Dimension
+PPVC 26_Typ,Elevation D,12388840,Dimension
+PPVC 26_Typ,Elevation D,12388859,Dimension
+PPVC 26_Typ,Elevation D,12321448,TextNote
+PPVC 26_Typ,Elevation D,12321456,TextNote
+PPVC 26_Typ,Elevation D,12321463,TextNote
+PPVC 26_Typ,Elevation D,12321484,TextNote
+PPVC 27_Typ,Elevation A,12322163,Dimension
+PPVC 27_Typ,Elevation A,12322175,Dimension
+PPVC 27_Typ,Elevation A,12324161,Dimension
+PPVC 27_Typ,Elevation A,12324375,Dimension
+PPVC 27_Typ,Elevation A,12324433,Dimension
+PPVC 27_Typ,Elevation A,12324607,Dimension
+PPVC 27_Typ,Elevation A,12324736,Dimension
+PPVC 27_Typ,Elevation A,12324753,Dimension
+PPVC 27_Typ,Elevation A,12324853,Dimension
+PPVC 27_Typ,Elevation A,12324920,Dimension
+PPVC 27_Typ,Elevation A,12324943,Dimension
+PPVC 27_Typ,Elevation A,12408571,Dimension
+PPVC 27_Typ,Elevation A,12408641,Dimension
+PPVC 27_Typ,Elevation A,12415235,Dimension
+PPVC 27_Typ,Elevation A,12420261,Dimension
+PPVC 27_Typ,Elevation A,12420403,Dimension
+PPVC 27_Typ,Elevation A,12324967,TextNote
+PPVC 27_Typ,Elevation A,12324975,TextNote
+PPVC 27_Typ,Elevation A,12422088,TextNote
+PPVC 27_Typ,Elevation B,12333832,Dimension
+PPVC 27_Typ,Elevation B,12333844,Dimension
+PPVC 27_Typ,Elevation B,12333861,Dimension
+PPVC 27_Typ,Elevation B,12333963,Dimension
+PPVC 27_Typ,Elevation B,12334100,Dimension
+PPVC 27_Typ,Elevation B,12334112,Dimension
+PPVC 27_Typ,Elevation B,12334174,Dimension
+PPVC 27_Typ,Elevation B,12334304,Dimension
+PPVC 27_Typ,Elevation B,12334445,Dimension
+PPVC 27_Typ,Elevation B,12334459,TextNote
+PPVC 27_Typ,Elevation B,12334467,TextNote
+PPVC 27_Typ,Elevation C,12332361,Dimension
+PPVC 27_Typ,Elevation C,12332396,Dimension
+PPVC 27_Typ,Elevation C,12332427,Dimension
+PPVC 27_Typ,Elevation C,12332687,Dimension
+PPVC 27_Typ,Elevation C,12332783,Dimension
+PPVC 27_Typ,Elevation C,12332996,Dimension
+PPVC 27_Typ,Elevation C,12333020,Dimension
+PPVC 27_Typ,Elevation C,12333040,Dimension
+PPVC 27_Typ,Elevation C,12333103,Dimension
+PPVC 27_Typ,Elevation C,12354279,Dimension
+PPVC 27_Typ,Elevation C,12354436,Dimension
+PPVC 27_Typ,Elevation C,12354443,Dimension
+PPVC 27_Typ,Elevation C,12354839,Dimension
+PPVC 27_Typ,Elevation C,12355358,Dimension
+PPVC 27_Typ,Elevation C,12402819,Dimension
+PPVC 27_Typ,Elevation C,12402972,Dimension
+PPVC 27_Typ,Elevation C,12404144,Dimension
+PPVC 27_Typ,Elevation C,12332685,TextNote
+PPVC 27_Typ,Elevation C,12333356,TextNote
+PPVC 27_Typ,Elevation C,12354230,TextNote
+PPVC 27_Typ,Elevation C,12396957,TextNote
+PPVC 27_Typ,Elevation D,12334627,Dimension
+PPVC 27_Typ,Elevation D,12334652,Dimension
+PPVC 27_Typ,Elevation D,12334675,Dimension
+PPVC 27_Typ,Elevation D,12334687,Dimension
+PPVC 27_Typ,Elevation D,12336177,Dimension
+PPVC 27_Typ,Elevation D,12336189,Dimension
+PPVC 27_Typ,Elevation D,12336205,Dimension
+PPVC 27_Typ,Elevation D,12336261,Dimension
+PPVC 27_Typ,Elevation D,12336488,Dimension
+PPVC 27_Typ,Elevation D,12357847,Dimension
+PPVC 27_Typ,Elevation D,12357910,Dimension
+PPVC 27_Typ,Elevation D,12357917,Dimension
+PPVC 27_Typ,Elevation D,12359980,Dimension
+PPVC 27_Typ,Elevation D,12396846,Dimension
+PPVC 27_Typ,Elevation D,12403683,Dimension
+PPVC 27_Typ,Elevation D,12336515,TextNote
+PPVC 27_Typ,Elevation D,12336523,TextNote
+PPVC 27_Typ,Elevation D,12336530,TextNote
+PPVC 18_Typ,Elevation A,12331552,Dimension
+PPVC 18_Typ,Elevation A,12331666,Dimension
+PPVC 18_Typ,Elevation A,12331700,Dimension
+PPVC 18_Typ,Elevation A,12332071,Dimension
+PPVC 18_Typ,Elevation A,12332147,Dimension
+PPVC 18_Typ,Elevation A,12395263,Dimension
+PPVC 18_Typ,Elevation A,12397156,Dimension
+PPVC 18_Typ,Elevation A,12403187,Dimension
+PPVC 18_Typ,Elevation A,12403194,Dimension
+PPVC 18_Typ,Elevation A,12403385,Dimension
+PPVC 18_Typ,Elevation A,12331879,TextNote
+PPVC 18_Typ,Elevation A,12331920,TextNote
+PPVC 18_Typ,Elevation A,12354224,TextNote
+PPVC 18_Typ,Elevation B,12333832,Dimension
+PPVC 18_Typ,Elevation B,12333844,Dimension
+PPVC 18_Typ,Elevation B,12333861,Dimension
+PPVC 18_Typ,Elevation B,12333963,Dimension
+PPVC 18_Typ,Elevation B,12334100,Dimension
+PPVC 18_Typ,Elevation B,12334112,Dimension
+PPVC 18_Typ,Elevation B,12334174,Dimension
+PPVC 18_Typ,Elevation B,12334304,Dimension
+PPVC 18_Typ,Elevation B,12334445,Dimension
+PPVC 18_Typ,Elevation B,12334459,TextNote
+PPVC 18_Typ,Elevation B,12334467,TextNote
+PPVC 18_Typ,Elevation C,12332361,Dimension
+PPVC 18_Typ,Elevation C,12332396,Dimension
+PPVC 18_Typ,Elevation C,12332427,Dimension
+PPVC 18_Typ,Elevation C,12332687,Dimension
+PPVC 18_Typ,Elevation C,12332783,Dimension
+PPVC 18_Typ,Elevation C,12332996,Dimension
+PPVC 18_Typ,Elevation C,12333020,Dimension
+PPVC 18_Typ,Elevation C,12333040,Dimension
+PPVC 18_Typ,Elevation C,12333103,Dimension
+PPVC 18_Typ,Elevation C,12354279,Dimension
+PPVC 18_Typ,Elevation C,12354436,Dimension
+PPVC 18_Typ,Elevation C,12354443,Dimension
+PPVC 18_Typ,Elevation C,12354839,Dimension
+PPVC 18_Typ,Elevation C,12355358,Dimension
+PPVC 18_Typ,Elevation C,12402819,Dimension
+PPVC 18_Typ,Elevation C,12402972,Dimension
+PPVC 18_Typ,Elevation C,12404144,Dimension
+PPVC 18_Typ,Elevation C,12332685,TextNote
+PPVC 18_Typ,Elevation C,12333356,TextNote
+PPVC 18_Typ,Elevation C,12354230,TextNote
+PPVC 18_Typ,Elevation C,12396957,TextNote
+PPVC 18_Typ,Elevation D,12334627,Dimension
+PPVC 18_Typ,Elevation D,12334652,Dimension
+PPVC 18_Typ,Elevation D,12334675,Dimension
+PPVC 18_Typ,Elevation D,12334687,Dimension
+PPVC 18_Typ,Elevation D,12336177,Dimension
+PPVC 18_Typ,Elevation D,12336189,Dimension
+PPVC 18_Typ,Elevation D,12336205,Dimension
+PPVC 18_Typ,Elevation D,12336261,Dimension
+PPVC 18_Typ,Elevation D,12336488,Dimension
+PPVC 18_Typ,Elevation D,12357847,Dimension
+PPVC 18_Typ,Elevation D,12357910,Dimension
+PPVC 18_Typ,Elevation D,12357917,Dimension
+PPVC 18_Typ,Elevation D,12359980,Dimension
+PPVC 18_Typ,Elevation D,12396846,Dimension
+PPVC 18_Typ,Elevation D,12403683,Dimension
+PPVC 18_Typ,Elevation D,12336515,TextNote
+PPVC 18_Typ,Elevation D,12336523,TextNote
+PPVC 18_Typ,Elevation D,12336530,TextNote

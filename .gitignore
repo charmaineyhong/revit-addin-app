@@ -1,0 +1,21 @@
+# Ignore Visual Studio folder
+.vs/
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Other
+*.cache
+*.tmp
